@@ -1,1 +1,1 @@
-console.log("hello world")
+console.log("See '__tests__' directory.")
